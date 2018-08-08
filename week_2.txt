@@ -1,0 +1,9 @@
+## Thoughts
+
+I have been assigned to the Sensilab Plinths IoT Project with Cameron Lindsay and am very excited to get started.
+I think this project will be lots of fun, and also teach me a lot about user experience and micro-controller programming.
+
+## Technical Details
+
+Not much to report this week, as our meeting has been set for Week 3 Monday.
+More details to come.
