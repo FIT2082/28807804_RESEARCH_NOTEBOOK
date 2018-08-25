@@ -1,0 +1,8 @@
+## Thoughts
+
+After our inital meeting on Monday I was very keen to get started and after being granted access to the repo started looking at the code for the current system.
+This runs on an Arduino and controls LED Strip lighting which is controllable via a web interface. Currently each plinth has its own web interface and is programmed through
+a get request sent to the plinths HTTP server. 
+
+We have scheduled another meeting for Thursday to get started on some ideas, as well as finalising the scope some more.
+

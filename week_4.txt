@@ -1,0 +1,6 @@
+# Notes
+
+During this week we largely focussed on finishing the project specification. As well as this Cameron created some mockups which will make developing the UI a lot easier. In addition I tested out changing the light colours via AJAX, which turned out to work quite well. 
+
+We found we were able to store lists of urls and plinth ID's and with this data we could construct requests fairly easily. We also created an all button which allows a user to change all the plinths' colours at once. 
+As this is the main requirement, it is pleasing to have this core functionality starting to come together so early in the project. 

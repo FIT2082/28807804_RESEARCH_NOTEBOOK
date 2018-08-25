@@ -1,0 +1,7 @@
+# Notes
+
+This week we focussed more on the front end, and while Cameron worked on the interface I worked a bit on setting up endpoints for the front end to use. I managed to complete a 'status' type end point which returns the current light status. It does this by requesting the plinths home page and using regular expressions to extract the relevant data from the html.
+
+I then made a cron job that runs this every two minutes, and creates a json from the results which can then be sent to the client via a simple php script.
+
+I tested this with a mock front end with a very minimalistic UI and was able to extract the relevant data upon page load, which will be very useful when creating the app fully.
