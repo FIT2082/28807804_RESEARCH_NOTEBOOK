@@ -1,0 +1,8 @@
+# Notes
+
+This week was fairly busy with other subjects and assingments so I didn't get much of a chance to work on this project.
+However I did do the following:
+
+This week I continued to work on the functioanlity of the backend.
+I created an add method that when passed a URL and an id number will add this new plinth to the database.
+I also squashed some bugs in the set status method.

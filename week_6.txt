@@ -1,0 +1,7 @@
+# Notes
+
+This week I created I did a lot of work on the backend. I created an endpoint to change any lights colour based from a uniform interface. This uses curl to send requests to the plinths.
+
+I also created a method that returns the current status of all plinths in the database to a client. As well as this I wrote a php script to curl all plinths in the database and extract from their homepage their current status and update the database. 
+
+The status is parsed via regex and then inserted into the database.
