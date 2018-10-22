@@ -1,0 +1,5 @@
+# Week 9 Notes
+
+This week I created a status page so that at a glance if there are any problems with the system these can quickly observed. The way this works is that a script is run every hour by cron that pings each plinth and checks its status is up to date in the database. If it fails to connect to a plinth it logs this to a file. Else it logs the success to a seperate file. 
+
+Then on the homepage the output of these files are displayed. The homepage also provideds a button to go to the app to control the plinths as well as a button to force the server to check the plinths and update accordingly.

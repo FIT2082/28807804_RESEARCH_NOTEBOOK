@@ -1,0 +1,5 @@
+# Week 10 Notes
+
+This week I encountered some issues with the server as we spent time this week working on the integration between the frontend and backend. One of these issues was that CORS was not configured on the server, so requests between the frontend and backend failed. I fixed this by creating a file in PHP that sends the appropriate headers and included this in any endpoint which was used by the frontend.
+
+I also began preliminary work on custom data types and a scheduler for the app which will run as a PHP Daemon.

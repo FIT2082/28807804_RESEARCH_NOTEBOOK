@@ -1,0 +1,5 @@
+# Week 11 Notes
+
+This week I added the ability to add new configurations through a more succint endpoint. As well as this I added the ability for the server to return a list of available configurations so the frontend could render them.
+
+I also worked on creating some documentation and now have a list of all available endpoints that the frontend can utilise along with their return type and their parameters. I also provided an example of how to call these endpoints with javascript utilising the fetch API.

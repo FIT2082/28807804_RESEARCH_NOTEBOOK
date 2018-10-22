@@ -1,0 +1,9 @@
+# Week 8 Notes
+
+This week I mostly worked on adding support to the system so it is able to handle creating and editing configurations by the user.
+
+The way this works is that each configuration is based on a group of edits, each of these edits contain a colour and an x and y co-ordinate for where the plinths are. 
+
+The database keeps track of this and stores each configuration so it can be retrieved later. 
+
+
